@@ -22,10 +22,10 @@ This project is intended for students, developers, and researchers who want to b
 
 ## 📌 GitHub Repositories
 
-### ✅ **Main Project Repo (Your Repository):**  
+### ✅ **Main Project Repo :**  
 🔗 https://github.com/DevanshuSawarkar/AI_Research_Agent_GenAI
 
-### ✅ **Contributor Repository (Devanshu Sawarkar):**  
+### ✅ **Contributor Repository :**  
 🔗 https://github.com/AyushGupte-22/AI_Research_Agent_GENAI
 
 ---
